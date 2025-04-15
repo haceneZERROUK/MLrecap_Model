@@ -3,3 +3,4 @@ optuna==4.2.1
 pandas==2.2.3
 scikit-learn==1.6.1
 seaborn==0.13.2
+catboost==1.2.8
