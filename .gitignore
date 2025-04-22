@@ -17,8 +17,8 @@
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
 
-# KDE directory preferences
-.directory
+# KDE directorsy preferences
+.directorsy
 
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
@@ -48,7 +48,7 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
-# Directories potentially created on remote AFP share
+# directorsies potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
@@ -96,7 +96,7 @@ MANIFEST
 
 # Installer logs
 pip-log.txt
-pip-delete-this-directory.txt
+pip-delete-this-directorsy.txt
 
 # Unit test / coverage reports
 htmlcov/
